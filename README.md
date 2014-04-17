@@ -1,3 +1,3 @@
 CS452-PROJECT2
 ==============
-Due Friday April 18
+My project is on particle system
